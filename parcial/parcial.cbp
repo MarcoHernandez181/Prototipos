@@ -37,6 +37,8 @@
 		<Unit filename="estudiante.cpp" />
 		<Unit filename="estudiante.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="notas.cpp" />
+		<Unit filename="notas.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

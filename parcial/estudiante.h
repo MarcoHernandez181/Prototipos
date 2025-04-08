@@ -2,23 +2,24 @@
 #define ESTUDIANTE_H
 
 #include <string>
+using namespace std;
 
 class Estudiante {
 private:
-    std::string nombre;
+    string nombre;
 
     float promedio;
 
 public:
     // Constructor
-    Estudiante(std::string nombre, float promedio);
+    Estudiante(string nombre, float promedio);
 
     // Métodos para obtener datos (getters)
-    std::string getNombre() const;
+    string getNombre() const;
     float getPromedio() const;
 
     // Métodos para modificar datos (setters)
-    void setNombre(std::string nuevoNombre);
+    void setNombre(string nuevoNombre);
     void setPromedio(float nuevoPromedio);
 
     // Método para mostrar información

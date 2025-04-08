@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1744130520 source:c:\users\macoh\onedrive\documents\parcial\prototipos\prototipos\parcial\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+	<iostream>
+	<string>
+
+1744132500 c:\users\macoh\onedrive\documents\parcial\prototipos\prototipos\parcial\estudiante.h
+	<string>
+
+1744130520 source:c:\users\macoh\onedrive\documents\parcial\prototipos\prototipos\parcial\main.cpp
+	<iostream>
+	"Estudiante.h"
+	<iostream>
+
